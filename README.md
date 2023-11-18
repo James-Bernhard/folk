@@ -55,7 +55,7 @@ following confusion matrix shows, even such a small model was very
 successful at predicting the genre of tunes in the validation set except
 for one type: reels.
 
-![Confusion matrix](confusion_matrix.pdf)
+![Confusion matrix](confusion_matrix.png)
 
 Even this simple model made almost no errors, except when classifying
 reels. Some reels were incorrectly classified as another type, and some
